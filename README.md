@@ -20,7 +20,7 @@ The secret is created by command and is intentionally not stored in the repo.
 ## Results
 ![Cluster ready](screenshots/02-cluster.png)
 ![Self-healing](screenshots/05-self-healing.png)
-![Data persists after pod deletion](screenshots/07b-data-after.png)
+![Data persists after pod deletion](screenshots/07a-data-beforeandafter)
 
 ## What I learned
 - Pod, Deployment and Service: what each one is responsible for
