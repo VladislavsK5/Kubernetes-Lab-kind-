@@ -18,8 +18,11 @@ manifests/  - Deployment, Service, PostgreSQL manifests
 The secret is created by command and is intentionally not stored in the repo.
 
 ## Results
+- CLUSTER
 ![Cluster ready](screenshots/02-cluster.png)
+- SELF HEALING
 ![Self-healing](screenshots/05-self-healing.png)
+- DATA after pod deletion
 ![Data persists after pod deletion](screenshots/07a-data-beforeandafter.png)
 
 ## What I learned
